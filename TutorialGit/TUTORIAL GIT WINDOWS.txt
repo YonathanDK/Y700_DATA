@@ -1,0 +1,10 @@
+https://github.com/YonathanDK/Y700_DATA.git
+https://www.hakkoblogs.com/2015/01/cara-menggunakan-github-dan-mengupload.html#.Wwp-UCAxVPY
+Git config --global user.name "username anda" 
+Git config --global user.email isi_dengan_email_anda@ymail.com 
+Git init
+Git add *
+Git commit –m "versi 1.0.0" 
+Git remote add origin http://github.com/acchoblues/APeK.git 
+Git pull origin master --allow-unrelated-histories
+Git push origin master
