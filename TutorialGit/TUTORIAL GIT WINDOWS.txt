@@ -8,3 +8,9 @@ Git commit –m "versi 1.0.0"
 Git remote add origin http://github.com/acchoblues/APeK.git 
 Git pull origin master --allow-unrelated-histories
 Git push origin master
+
+http://rogerdudler.github.io/git-guide/index.id.html
+buat salinan kerja dari repositori lokal dengan menjalankan perintah
+git clone /jalur/ke/repositori
+saat menggunakan server jarak-jauh, perintahnya menjadi
+git clone namapengguna@host:/jalur/ke/repositori
